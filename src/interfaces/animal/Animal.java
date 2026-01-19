@@ -1,7 +1,9 @@
 package interfaces.animal;
 
 
-// done in master branch
+// done in master branch 
+
+// making changes on the remote github to verify that if it gets reflected to local git in master branch
 // interface is blueprint of class
 public interface Animal {
 
